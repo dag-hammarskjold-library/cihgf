@@ -1,0 +1,71 @@
+
+
+-------------- Details of the comparison -------------------------------
+
+Origin file has more contents than generated file
+
+Element to compare :  Petrova, Simona (UN System Chief Executives Board for Coordination. Secretariat)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Joshi, Jayesh (VAAGDHARA)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Skoknic, Milenko E. (Chile)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  King, Inga Rhonda (Saint Vincent and the Grenadines) (UN. Economic and Social Council. Vice-President) (continued)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Yaakob, M. Shahrul Ikram (Malaysia) (UN Forum on Forests. Chair)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Crabtree, Armagan Ayse Can (Turkey) (continued)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Chatardová, Marie (Czechia) (UN. Economic and Social Council. President) (continued)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Paolino, Matías (Uruguay)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Santaella, Julio A. (Hungary) (UN. Statistical Commission. Vice-Chair)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Meja, Vitalice (Reality for Aid Africa (Organization)) (continued)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Kanja, David (UN. Office of Internal Oversight Services. Assistant Secretary-General)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  Liu, Zhenmin (UN. Under-Secretary-General for Economic and Social Affairs) (continued)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------
+Element to compare :  O'Conner, Faye (United Kingdom)
+Occurence(s) in Origin file : 1
+Occurence(s) in Generated file : 0
+Difference : 1
+--------------------------------------------

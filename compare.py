@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 
 # import external modules
 from bs4 import BeautifulSoup
@@ -10,8 +8,8 @@ import datetime
 import glob
 
 # retrieve data from files
-fileOrigin = open("origin.html", "r")
-fileGenerated = open("generated.html", "r")
+fileOrigin = open("origin.html", "r",encoding='utf-8')
+fileGenerated = open("generated.html", "r",encoding='utf-8')
 
 # parse the files
 soupOrigin = BeautifulSoup(fileOrigin, 'lxml')
@@ -61,7 +59,7 @@ def compareTwoList():
     myClass=input()
 
     now = datetime.datetime.now()
-    now=str(now.strftime("%Y-%m-%d %H:%M:%S")).replace(" ","").replace("-","")
+    now=str(now.strftime("%Y-%m-%d %H:%M:%S")).replace(" ","").replace("-","").replace(":","")
 
     # creating the file
     f=open("results" + now +".txt", 'w')
